@@ -6,14 +6,21 @@ This repository contains the code and experimental framework for our paper:
 **"Uncertainty-Driven Sampling for Handling Intra-Class Variability in 3D Plant Part Segmentation"**
 Please cite the paper
 @INPROCEEDINGS{10924512,
+
   author={Reena and Doonan, John H. and Zhang, Huaizhong and Liu, Yonghuai and Williams, Kevin and Corke, Fiona M. K.},
+  
   booktitle={2025 IEEE 6th International Conference on Image Processing, Applications and Systems (IPAS)}, 
+  
   title={Uncertainty Driven Sampling to Handle Intra-class Imbalance Part Segmentation in Wheat}, 
+  
   year={2025},
+  
   volume={CFP2540Z-ART},
-  number={},
+  
   pages={1-7},
+  
   keywords={Training;Solid modeling;Uncertainty;Three-dimensional displays;Accuracy;Shape;Focusing;Ear;Robustness;Resilience;Imbalance;Uncertainty;Part-segmentation;Wheat},
+  
   doi={10.1109/IPAS63548.2025.10924512}}
 
 
